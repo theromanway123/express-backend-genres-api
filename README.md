@@ -28,7 +28,7 @@ Shoutout to Mosh Hamedamni for this amazing tutorial of Node.js\
 ```bash
    node server.js
 ```
-or
+or (for development server)
 ```bash
   nodemon server.js 
 ```
