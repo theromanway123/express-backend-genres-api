@@ -1,4 +1,4 @@
-# RESTful API CRUD using Express.js and JOI
+# RESTful API CRUD using Express.js and JOI.js 
 \
 This api allows basic CRUD operations on a mock database which stores genres.
 Checkout mockdata.js to see data structure\
