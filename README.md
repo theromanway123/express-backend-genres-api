@@ -21,16 +21,16 @@ Shoutout to Mosh Hamedamni for this amazing tutorial of Node.js\
 # Instructions
 
 1) Install dependencies using \
-'''bash
+```bash
   npm init
-'''
-2) Run server.js \
-'''bash
-   node server.js
-'''
-or
 ```
+2) Run server.js \
+```bash
+   node server.js
+```
+or
+```bash
   nodemon server.js 
 ```
-// if dev in production
+
 
